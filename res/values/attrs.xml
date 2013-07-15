@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AccordionView">
+       <attr name="addHandle" format="reference" />
+       <attr name="addContent" format="reference" />
+       <attr name="backgroundOpen" format="reference" />
+       <attr name="backgroundClosed" format="reference" />
+       <attr name="contentVisible" format="boolean" />
+   </declare-styleable>    
+</resources>
