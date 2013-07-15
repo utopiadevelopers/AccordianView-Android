@@ -11,9 +11,13 @@ Just add the accordion view in your view heirarchy and reference your handle and
 Custom Attributes
 =====================
 Manditory
+```
 <attr name="addHandle" format="reference" />
 <attr name="addContent" format="reference" />
+```
 Optional
+```
 <attr name="backgroundOpen" format="reference" />
 <attr name="backgroundClosed" format="reference" />
 <attr name="contentVisible" format="boolean" />
+```
